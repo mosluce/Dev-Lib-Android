@@ -1,0 +1,3 @@
+[submodule "ui/MaskedEditText"]
+	path = ui/MaskedEditText
+	url = https://github.com/toshikurauchi/MaskedEditText
